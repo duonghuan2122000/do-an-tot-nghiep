@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "i14qzkApucDTvISlYR3X5dXtEoNgJ5k1ZK1SRjImsX3fHUqNjdW1zJ6cpmRkIf5/Czeac4ZVFl82AcRIryR81A==",
+  "dgSpecHash": "G4id+nFgaoo38I/PpxKBdrBzt6BD+/N4nQb+ph0S06cCwKmo0mQ+ZlnDiBx8g8NRCU3AD8n5FsY+eopDNOTw9w==",
   "success": true,
   "projectFilePath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\duong\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+    "C:\\Users\\duong\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\mysqlconnector\\2.1.0\\mysqlconnector.2.1.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

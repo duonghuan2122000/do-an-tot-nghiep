@@ -1,0 +1,15 @@
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\bin\Debug\net5.0\DBHuan.Shopping.Infrastructure.deps.json
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\bin\Debug\net5.0\DBHuan.Shopping.Infrastructure.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\bin\Debug\net5.0\ref\DBHuan.Shopping.Infrastructure.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\bin\Debug\net5.0\DBHuan.Shopping.Infrastructure.pdb
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\bin\Debug\net5.0\DBHuan.Shopping.Core.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\bin\Debug\net5.0\DBHuan.Shopping.Core.pdb
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.csproj.AssemblyReference.cache
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.AssemblyInfoInputs.cache
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.AssemblyInfo.cs
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.csproj.CoreCompileInputs.cache
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.csproj.CopyComplete
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\ref\DBHuan.Shopping.Infrastructure.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Infrastructure\obj\Debug\net5.0\DBHuan.Shopping.Infrastructure.pdb

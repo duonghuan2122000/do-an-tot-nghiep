@@ -1,0 +1,12 @@
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\bin\Debug\net5.0\DBHuan.Shopping.Core.deps.json
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\bin\Debug\net5.0\DBHuan.Shopping.Core.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\bin\Debug\net5.0\ref\DBHuan.Shopping.Core.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\bin\Debug\net5.0\DBHuan.Shopping.Core.pdb
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.csproj.AssemblyReference.cache
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.AssemblyInfoInputs.cache
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.AssemblyInfo.cs
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.csproj.CoreCompileInputs.cache
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\ref\DBHuan.Shopping.Core.dll
+E:\web\do-an-tot-nghiep\Api\src\DBHuan.Shopping.Core\obj\Debug\net5.0\DBHuan.Shopping.Core.pdb
