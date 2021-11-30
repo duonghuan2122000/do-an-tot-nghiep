@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i14qzkApucDTvISlYR3X5dXtEoNgJ5k1ZK1SRjImsX3fHUqNjdW1zJ6cpmRkIf5/Czeac4ZVFl82AcRIryR81A==",
+  "success": true,
+  "projectFilePath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duong\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}
