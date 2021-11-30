@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DBHuan.Shopping.Core.Dtos
+﻿namespace DBHuan.Shopping.Core
 {
     /// <summary>
     /// Class chứa các trường request của đầu api lấy danh sách có phân trang và filter

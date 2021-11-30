@@ -27,3 +27,14 @@ E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\obj\Debug\net5.0\DBHuan
 E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\obj\Debug\net5.0\ref\DBHuan.Shopping.HttpApi.dll
 E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\obj\Debug\net5.0\DBHuan.Shopping.HttpApi.pdb
 E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\obj\Debug\net5.0\DBHuan.Shopping.HttpApi.genruntimeconfig.cache
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\AutoMapper.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\Dapper.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\MySqlConnector.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\DBHuan.Shopping.Core.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\DBHuan.Shopping.Infrastructure.dll
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\DBHuan.Shopping.Core.pdb
+E:\web\do-an-tot-nghiep\Api\host\DBHuan.Shopping.HttpApi\bin\Debug\net5.0\DBHuan.Shopping.Infrastructure.pdb

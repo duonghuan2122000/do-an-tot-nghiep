@@ -27,7 +27,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj": {
+                "projectPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj"
+              },
+              "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj": {
+                "projectPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -40,6 +47,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -59,6 +70,138 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj",
+        "projectName": "DBHuan.Shopping.Core",
+        "projectPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj",
+        "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
+        "outputPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj",
+        "projectName": "DBHuan.Shopping.Infrastructure",
+        "projectPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\DBHuan.Shopping.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\duong\\.nuget\\packages\\",
+        "outputPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\duong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj": {
+                "projectPath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

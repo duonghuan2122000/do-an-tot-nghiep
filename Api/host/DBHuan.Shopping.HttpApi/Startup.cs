@@ -1,3 +1,5 @@
+using DBHuan.Shopping.Core;
+using DBHuan.Shopping.Infrastructure;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -26,12 +28,18 @@ namespace DBHuan.Shopping.HttpApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // inject auto mapper
+            services.AddAutoMapper(typeof(DBHuanShoppingAutoMapper).Assembly);
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "DBHuan.Shopping.HttpApi", Version = "v1" });
             });
+
+            // inject service và repository
+            services.AddTransient<IPhoneRepository, PhoneRepository>();
+            services.AddTransient<IPhoneService, PhoneService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DBHuan.Shopping.Core.Dtos
+namespace DBHuan.Shopping.Core
 {
     /// <summary>
     /// Class chứa các trường trả về của đầu api lấy danh sách có phân trang và lọc

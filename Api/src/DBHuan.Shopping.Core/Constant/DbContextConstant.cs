@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DBHuan.Shopping.Core.Constant
+﻿namespace DBHuan.Shopping.Core
 {
     /// <summary>
     /// Class chứa các constant của db context

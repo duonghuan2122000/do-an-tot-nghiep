@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "0h+nuQupAOt3cosEHO/tqDD9Sos6CTsaK0oAJ4U3haM31AB1+uKSy2MMsn9NIa3iJYRKwD0yzuZEo2STWCi2SA==",
+  "dgSpecHash": "w6eiJd7qpIQg60LsGNucvB8hNXrxKoFtHYwyB7uQWtp7zFdlhPDOhShTl/2DwZqwxG0XbuN3ezeAvsJrvGnHOQ==",
   "success": true,
   "projectFilePath": "E:\\web\\do-an-tot-nghiep\\Api\\src\\DBHuan.Shopping.Core\\DBHuan.Shopping.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\duong\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\duong\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
